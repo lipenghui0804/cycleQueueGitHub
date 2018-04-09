@@ -13,7 +13,7 @@
 CIRCULAR_QUEUE queue;
 uint8_t queueBuf[256];
 
-#define QUEUE_SIZE 50
+#define QUEUE_SIZE 60
 #define QUEUE_UNIT_SIZE 2
 
 typedef struct{
